@@ -1,0 +1,46 @@
+{
+  "narration": {
+    "manager": {
+      "enabled": "Narrator enabled",
+      "disabled": "Narrator disabled"
+    },
+    "role": {
+      "button": "button",
+      "toggle": "switch",
+      "slider": "slider",
+      "input": "text field",
+      "dropdown": "dropdown"
+    },
+    "state": {
+      "on": "on",
+      "off": "off",
+      "unavailable": "unavailable"
+    },
+    "value": {
+      "prefix": "value",
+      "of": "of",
+      "percent": "percent",
+      "empty": "empty",
+      "selected": "selected"
+    }
+  },
+  "nav": {
+    "texto": "Example navigation text",
+    "menu": "Main menu",
+    "pause": "Pause menu",
+    "inventory": "Inventory",
+    "settings": "Settings"
+  },
+  "hud": {
+    "health": "Health",
+    "coins": "Coins {0}",
+    "score": "Score {0}",
+    "objective": "Objective"
+  },
+  "game": {
+    "saved": "Game saved",
+    "checkpoint": "Checkpoint reached",
+    "item_collected": "Item collected: {0}",
+    "quest_updated": "Quest updated"
+  }
+}

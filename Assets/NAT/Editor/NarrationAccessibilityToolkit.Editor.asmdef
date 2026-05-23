@@ -1,0 +1,21 @@
+{
+  "name": "NarrationAccessibilityToolkit.Editor",
+  "rootNamespace": "NarrationAccessibilityToolkit.Editor",
+  "references": [
+    "NarrationAccessibilityToolkit.Runtime",
+    "Unity.InputSystem",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+

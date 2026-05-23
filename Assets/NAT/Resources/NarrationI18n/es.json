@@ -1,0 +1,46 @@
+{
+  "narration": {
+    "manager": {
+      "enabled": "Narrador activado",
+      "disabled": "Narrador desactivado"
+    },
+    "role": {
+      "button": "boton",
+      "toggle": "interruptor",
+      "slider": "control deslizante",
+      "input": "campo de texto",
+      "dropdown": "lista desplegable"
+    },
+    "state": {
+      "on": "activado",
+      "off": "desactivado",
+      "unavailable": "no disponible"
+    },
+    "value": {
+      "prefix": "valor",
+      "of": "de",
+      "percent": "por ciento",
+      "empty": "vacio",
+      "selected": "seleccionado"
+    }
+  },
+  "nav": {
+    "texto": "Texto de navegacion de ejemplo",
+    "menu": "Menu principal",
+    "pause": "Menu de pausa",
+    "inventory": "Inventario",
+    "settings": "Ajustes"
+  },
+  "hud": {
+    "health": "Vida",
+    "coins": "Monedas {0}",
+    "score": "Puntuacion {0}",
+    "objective": "Objetivo"
+  },
+  "game": {
+    "saved": "Partida guardada",
+    "checkpoint": "Punto de control alcanzado",
+    "item_collected": "Objeto recogido: {0}",
+    "quest_updated": "Mision actualizada"
+  }
+}
