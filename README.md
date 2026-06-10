@@ -11,12 +11,11 @@ Right now, the focus is to make the core experience stable and easy for the comm
 ## What Has Been Tested
 
 - Unity 6.3 (`6000.3`)
-- Windows using the current system narrator speech path
+- Windows with NVDA support, falling back to the current system narrator speech path
 - Android using system TTS
 
 ## What Is Not Tested Yet
 
-- NVDA on Windows (still pending)
 - iOS (expected to work, not validated yet)
 - Linux (expected to work, not validated yet)
 

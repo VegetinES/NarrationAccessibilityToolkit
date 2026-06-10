@@ -16,14 +16,13 @@ NAT (Narration Accessibility Toolkit) helps Unity projects provide spoken feedba
 Currently validated:
 
 - Unity 6.3 (`6000.3`)
-- Windows with current system narrator speech path
+- Windows with NVDA support, falling back to the current system narrator speech path
 - Android with system TTS
 
 Expected but not validated yet:
 
 - iOS
 - Linux
-- NVDA behavior on Windows
 
 ## 3) Requirements
 
@@ -260,7 +259,7 @@ If a key is missing, NAT falls back to the original text.
 
 ## 10) Platform Notes
 
-- Windows: current implementation uses a system narrator speech path.
+- Windows: NVDA can be used when preferred and available; NAT falls back to the current system narrator speech path otherwise.
 - Android: uses `android.speech.tts.TextToSpeech`.
 - iOS: expected path available, pending full validation.
 - Linux: expected path available, pending full validation.

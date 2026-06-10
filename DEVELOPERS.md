@@ -47,12 +47,11 @@ This document is for developers and collaborators who want to improve the plugin
 
 Validated:
 
-- Windows with current system narrator speech path
+- Windows with NVDA support, falling back to the current system narrator speech path
 - Android with system TTS
 
 Pending validation:
 
-- NVDA on Windows
 - iOS (expected to work)
 - Linux (expected to work)
 
